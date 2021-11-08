@@ -1,0 +1,39 @@
+Game Dev statement of references - Mohammed Nadir Khan
+
+
+For the zombie I used this link
+https://assetstore.unity.com/packages/3d/characters/humanoids/zombie-30232
+
+For the rifle I used this link
+https://sketchfab.com/3d-models/rifle-animated-452f1533cdf74333aefe53b85050ddc3
+
+For the pistol I used this link
+https://sketchfab.com/3d-models/pistol-animated-cbe1e14b09094a09b8b59deca84e2922
+
+For the industrial map I used this link
+https://assetstore.unity.com/packages/3d/environments/industrial/rpg-fps-game-assets-for-pc-mobile-industrial-set-v2-0-86679
+
+For the desert ground I used this link
+https://assetstore.unity.com/packages/2d/textures-materials/floors/ground-materials-fd-free-140364
+
+For the desert buildings I used this link
+https://assetstore.unity.com/packages/3d/environments/urban/desert-buildings-71445
+
+For the Muzzle Flash effects I used this link
+https://assetstore.unity.com/packages/vfx/particles/war-fx-5669
+
+For First Person Controller, I used standard assets from the Game Dev Labs
+
+menu click
+https://freesound.org/people/victorium183/sounds/476816/
+
+menu soundtrack
+https://incompetech.com/music/royalty-free/music.html
+Night Virgil is the soundtrack name
+
+game soundtrack
+https://incompetech.com/music/royalty-free/music.html
+Halls of the Undead is the soundtrack name
+
+gun shot
+https://freesound.org/people/coolguy244e/sounds/267341/
